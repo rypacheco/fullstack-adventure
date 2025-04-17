@@ -1,0 +1,10 @@
+/* font-family */
+/* genericos */
+p {
+/* font-family: moonspace; */
+/* fallback */
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+/* nome da familia + genericos */

@@ -1,0 +1,19 @@
+/* 
+color
+text-transform,
+text-decoration
+*/
+
+p {
+/* text-transform: uppercase;
+text-transform: lowercase;
+text-transform: none; */
+}
+
+mark {
+    color: red;
+}
+
+a {
+    color: purple;
+}
