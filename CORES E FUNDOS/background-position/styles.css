@@ -1,0 +1,15 @@
+/*
+background-position
+background-size
+*/
+
+   body {
+       background-color: red;
+       background-image: url("https://pangovet.com/wp-content/uploads/2024/06/grey-cat.jpeg");
+       background-repeat: no-repeat;
+       /* background-position-x:center: ;*/
+       /* background-position-y: center ; */
+       background-position: center;
+       background-size: cover ; 
+   }
+   
